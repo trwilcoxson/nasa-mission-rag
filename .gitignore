@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+chroma_db_openai/
+chroma_db/
+*.log
+.env
+.DS_Store

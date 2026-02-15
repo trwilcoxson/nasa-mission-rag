@@ -1,0 +1,32 @@
+# NASA Mission Intelligence - Evaluation Dataset
+# Format: Q: / A: / Category: per question block
+# Spans multiple categories: overview, emergency/disaster, crew, technical, timeline
+=============================================================================
+
+Q: What was the primary objective of the Apollo 11 mission?
+A: The primary objective of Apollo 11 was to perform a crewed lunar landing and return safely to Earth. On July 20, 1969, astronauts Neil Armstrong and Buzz Aldrin landed the Lunar Module Eagle on the Moon's surface in the Sea of Tranquility while Michael Collins orbited above in the Command Module Columbia.
+Category: Mission Overview
+
+Q: What problems did the Apollo 13 crew encounter during their mission?
+A: Apollo 13 experienced a catastrophic failure when an oxygen tank in the Service Module exploded on April 13, 1970, about 56 hours into the mission. This caused a loss of oxygen, electrical power, and water in the Command Module. The crew had to use the Lunar Module as a lifeboat and perform critical course corrections to return safely to Earth, making it a successful failure in NASA history.
+Category: Emergency/Disaster Analysis
+
+Q: Who were the crew members aboard the Space Shuttle Challenger on mission STS-51L?
+A: The STS-51L Challenger crew consisted of seven members: Commander Francis Dick Scobee, Pilot Michael Smith, Mission Specialists Judith Resnik, Ellison Onizuka, and Ronald McNair, Payload Specialist Gregory Jarvis, and Teacher-in-Space participant Christa McAuliffe, who was selected from NASA's Teacher in Space Program.
+Category: Crew
+
+Q: What was the timeline of events leading up to the Challenger launch on January 28, 1986?
+A: The Challenger STS-51L launch experienced multiple delays. The countdown began days before the planned launch, with holds placed at various points. Weather conditions and cold temperatures were factors. The launch was postponed at least once due to unacceptable weather. On January 28, the vehicle was launched at 11:38 AM EST despite concerns about unusually cold temperatures that morning, which contributed to the O-ring failure in the right solid rocket booster.
+Category: Timeline
+
+Q: What technical systems were used during the Apollo 11 launch countdown?
+A: During the Apollo 11 launch countdown, multiple technical systems were monitored including the emergency detection system, the guidance system, propellant loading of liquid oxygen and liquid hydrogen, computer checks between ground computers and the space vehicle computers, and communications systems. The countdown was managed from the Manned Spacecraft Center in Houston, Texas, with test conductors coordinating across multiple stations.
+Category: Technical
+
+Q: How did the Apollo 13 crew manage their return to Earth after the oxygen tank explosion?
+A: After the oxygen tank explosion, the Apollo 13 crew transferred to the Lunar Module Aquarius, which served as a lifeboat. They performed a critical free-return trajectory burn using the LM descent engine. The crew had to conserve power, water, and other consumables during the journey back. They endured cold temperatures and limited resources before successfully re-entering Earth's atmosphere and splashing down in the Pacific Ocean.
+Category: Emergency/Disaster Analysis
+
+Q: What role did the Public Affairs Officer play during the Apollo missions?
+A: The Public Affairs Officer (PAO) provided real-time commentary during Apollo missions, narrating mission events for the public and media. The PAO relayed technical information from mission control in accessible language, reported on spacecraft status, crew activities, and mission milestones. Their commentary served as the primary public communication channel for these historic missions.
+Category: Mission Overview
