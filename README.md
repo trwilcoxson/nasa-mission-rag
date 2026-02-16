@@ -1,10 +1,10 @@
-# NASA RAG Chat Project - Student Learning Version
+# NASA RAG Chat Project
 
-A hands-on learning project for building a Retrieval-Augmented Generation (RAG) system with real-time evaluation capabilities. This project teaches students to create a complete RAG pipeline from document processing to interactive chat interface.
+A hands-on project for building a Retrieval-Augmented Generation (RAG) system with real-time evaluation capabilities. Build a complete RAG pipeline from document processing to interactive chat interface.
 
 ## 🎯 Learning Objectives
 
-By completing this project, students will learn to:
+By completing this project, you will learn to:
 - Build document embedding pipelines with ChromaDB and OpenAI
 - Implement RAG retrieval systems with semantic search
 - Create LLM client integrations with conversation management
